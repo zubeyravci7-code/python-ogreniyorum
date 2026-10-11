@@ -1,0 +1,5 @@
+merhaba = 1
+while merhaba > 0:
+    print(":" , merhaba)
+    merhaba = merhaba - 1
+print("merhaba bitti.")

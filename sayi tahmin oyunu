@@ -1,0 +1,10 @@
+tutulan_sayi= 53
+kullanici_tahmini= int(input("1 ile 100 arasında bir sayı tahmin edin")
+while kullanici_tahmini != tutula_sayi:
+if kullanici_tahmini < tutulan_sayi :
+ print ("daha büyük bir sayi tahmin edin.")
+     else:
+     print ("daha küçük bir sayı tahmin edin.")
+
+     kullanici_tahmini = int(input("1 ile 100 arasında bir sayi tahmin 
+   print (" Tebrikler! Doğru tahmin ettiniz. Tutulan sayı:",tutulan_sayi)                                

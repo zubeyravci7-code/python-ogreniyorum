@@ -1,0 +1,5 @@
+kalkis = 10
+while kalkis  >0:
+    print("Kalkişa : ",kalkis," saniye kaldı.")
+    kalkis=kalkis -1
+    print("Roket kalktı.")
